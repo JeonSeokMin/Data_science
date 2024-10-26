@@ -3,3 +3,7 @@
 
 # 모든 data 디렉토리 무시
 **/data/
+
+# Flight_Delay train, test file
+test.parquet
+train.parquet
