@@ -7,3 +7,6 @@
 # Flight_Delay train, test file
 test.parquet
 train.parquet
+
+# python-version
+.python-version
